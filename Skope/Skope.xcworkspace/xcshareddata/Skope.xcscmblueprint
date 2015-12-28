@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7A13F44CAC64678A4FDD0D6288339BAF81D57D70",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7A13F44CAC64678A4FDD0D6288339BAF81D57D70" : 0,
+    "9C3595DC0D3E38930CD10A102385280B56D80C59" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6C2ED2CA-9287-4BEB-95AC-A3FFEA12D875",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7A13F44CAC64678A4FDD0D6288339BAF81D57D70" : "SurfcheckFinder\/",
+    "9C3595DC0D3E38930CD10A102385280B56D80C59" : "spoke-ios"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Skope",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Skope\/Skope.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Kent-Mbn\/SurfcheckFinder.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7A13F44CAC64678A4FDD0D6288339BAF81D57D70"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jellydn\/spoke-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9C3595DC0D3E38930CD10A102385280B56D80C59"
+    }
+  ]
+}

@@ -10,7 +10,7 @@
 
 //SERVER OF ODC TEAM
 
-#define SERVER_IP   @"http://108.61.202.156"
+#define SERVER_IP   @""
 #define SERVER_PORT @"80"
 
 #define URL_SERVER_API_FULL [NSString stringWithFormat:@"%@:%@", SERVER_IP, SERVER_PORT]
