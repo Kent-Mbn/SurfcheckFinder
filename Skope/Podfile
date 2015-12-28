@@ -1,0 +1,26 @@
+# Uncomment this line to define a global platform for your project
+ platform :ios, '7.0'
+
+target 'Skope' do
+pod 'AFNetworking', '~> 2.5'
+pod 'SVProgressHUD', '~> 1.1'
+pod 'PHFComposeBarView', '~> 2.0'
+pod 'UICircularSlider', '~> 1.0'
+pod 'Facebook-iOS-SDK', '~> 3.23'
+pod 'ParseFacebookUtils', '~> 1.7'
+pod 'Fabric/Crashlytics', '~> 1.1.1'
+pod 'SDWebImage', '~> 3.7'
+pod 'MWPhotoBrowser', '~> 1.4'
+pod 'NSDate+TimeAgo', '~> 1.0'
+pod 'UIActivityIndicator-for-SDWebImage', '~> 1.2'
+pod 'TTTAttributedLabel', '~> 1.13'
+pod 'AsyncDisplayKit', '~> 1.1'
+pod 'QuickBlox', '~> 2.2'
+pod 'ParseUI', '~> 1.1'
+pod 'MTBlockAlertView', '~> 0.1'
+pod 'JSQMessagesViewController', '~> 6.1'
+end
+
+target 'SkopeTests' do
+
+end
